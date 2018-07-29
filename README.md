@@ -21,3 +21,6 @@ Front-End: http://localhost/wemanity/
 Back-End: http://localhost/wemanity/admin/
 	Login : admin
 	Pwd	  : test
+	
+# Copyright
+Copyright © 2018 Aymen Abdessalme.
