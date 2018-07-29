@@ -23,4 +23,4 @@ Back-End: http://localhost/wemanity/admin/
 	Pwd	  : test
 	
 # Copyright
-Copyright © 2018 Aymen Abdessalme.
+Copyright © 2018 Aymen Abdessalem.
